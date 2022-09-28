@@ -7,7 +7,9 @@ const ContactPage = () => {
         <title>Contact Page</title>
       </Head>
 
+<Layout>
       <main>hello from next</main>
+</Layout>
     </>
   );
 };
